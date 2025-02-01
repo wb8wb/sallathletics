@@ -34,7 +34,7 @@ p {
 .link {
     display: block;
     text-decoration: none;
-    background-color: #0073e6;
+    background-color: #4CBB17;
     color: white;
     padding: 12px;
     margin: 10px;
@@ -44,7 +44,7 @@ p {
 }
 
 .link:hover {
-    background-color: #005bb5;
+    background-color: #228B22;
 }
 
 footer {
