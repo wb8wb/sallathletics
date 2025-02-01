@@ -17,6 +17,7 @@ body {
 
 .profile-pic {
     width: 200px;
+    border-radius: 0px;
     margin-bottom: 10px;
 }
 
